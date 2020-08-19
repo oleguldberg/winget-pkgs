@@ -30,4 +30,8 @@ Installers:
     #Sha256: 1b0b2a495878710417bb49640971d8188039c60d669a5ca8cfa273b027274d49
     #Scope: machine
     
+<<<<<<< HEAD
 # ManifestVersion: 0.1.0
+=======
+# ManifestVersion: 0.1.0
+>>>>>>> 36ab0a7... Create 3.2.6.Yaml
